@@ -1,0 +1,167 @@
+body {
+  background-repeat: repeat;
+  background-color: #324376;
+  color: #586ba4;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+ color: #e8eddf;
+ font-family: 'Nunito Sans', sans-serif;
+ font-size: 65px;
+}
+h2 {
+  color: #1E2749;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 50px;
+}
+h3 {
+  color: #cfdbd5;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 35px;
+}
+p {
+  color: #13293D;
+  font-size: 17px;
+}
+a:link {
+    color: #e8eddf;
+    text-decoration: none;
+}
+a:visited {
+    color: inherit;
+    text-decoration: none;
+}
+a:hover {
+    opacity: .50;
+    color: #FFF;
+    text-decoration: none;
+}
+a:active {
+    color: inherit;
+    text-decoration-color: #FFFFFF;
+    text-decoration: none;
+}
+
+nav {
+  padding-top: 5px;
+  text-align: center;
+}
+ul {
+    display: table;
+    list-style-type: none;
+    margin: auto;
+    padding: 3;
+    overflow: hidden;
+}
+li {
+    color: #cfdbd5;
+    font-size: 18px;
+    float: left;
+}
+li a {
+    display: block;
+    padding: 8px;
+}
+
+.welcome {
+  text-align: center;
+  height: 100vh;
+  /*background-color: #609CB0;*/
+}
+.name {
+  width: 50%;
+  text-align: center;
+  padding-top: 10%;
+  display: block;
+  margin: auto;
+}
+
+.me{
+
+  padding: 60px;
+  height: 75vh;
+
+  background-color: #E5E9EC;
+}
+
+#selfie {
+    text-align: right;
+    width: 500px;
+  	height: 500px;
+  	background: #DDD;
+  	-moz-border-radius: 50%;
+  	-webkit-border-radius: 50%;
+  	border-radius: 50%;
+}
+
+#works {
+    text-align: right;
+    width: 240px;
+  	height: 240px;
+  	background: #DDD;
+  	-moz-border-radius: 50%;
+  	-webkit-border-radius: 50%;
+  	border-radius: 50%;
+}
+
+.interests, .works {
+  margin: 15px;
+  padding: 60px;
+  height: 75vh;
+  background-color: #FFF;
+}
+
+.contact {
+  height: 85px;
+  background-color: purple;
+}
+/** .logo {
+  text-align: center;
+  padding-top: 10%;
+  display: block;
+  margin: auto;
+}
+.headline{
+  margin-top: 5%;
+  text-align: center;
+}
+
+.intro {
+  background-color: #DF9689;
+  height: 100vh;
+}
+
+.about {
+    background-color: #DFDFDF;
+    height: 100vh;
+}**/
+
+
+
+/**p {
+  text-align: center;
+}
+
+ul {
+    display: table;
+    list-style-type: none;
+    margin: auto;
+    padding: 3;
+    overflow: hidden;
+}
+nav {
+  text-align: center;
+}
+
+li {
+    font-size: 18px;
+    float: left;
+}
+
+li a {
+
+    display: block;
+    padding: 8px;
+}**/
